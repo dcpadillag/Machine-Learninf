@@ -7,4 +7,7 @@ Small projects to learn a little about Machine Learning.
 1. References about machine learning technics applied in condensed matter (topological insulators, phase transitions,...)
 2. Introductory example for supervised learning.
 3. Slides about machine learning topics
-4. Supervised learning projects (phase transition in Ising model, convolutional neural network with tensorflow,...)
+4. Supervised learning projects 
+	4.1 Phase transition in Ising model.
+	4.2 Convolutional neural network with tensorflow.
+	4.3 Decision tree for earthquake prediction.
