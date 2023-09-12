@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{What is Machine Learning?}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Learning Tasks}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Supervised Learning}{6}{0}{1}
+\beamer@sectionintoc {2}{Neural Networks}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Hidden Layers}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Example: The Flower Problem}{10}{0}{2}
+\beamer@sectionintoc {3}{Supervised Learning of Ising Model}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Input data -Monte Carlo Cluster Algorithm-}{12}{0}{3}
+\beamer@subsectionintoc {3}{2}{Hidden Layer}{13}{0}{3}
+\beamer@subsectionintoc {3}{3}{Output Layer}{14}{0}{3}
+\beamer@subsectionintoc {3}{4}{Results}{15}{0}{3}
