@@ -13,8 +13,8 @@ $\textbf{3.}$  Slides about machine learning topics.
 
 $\textbf{4.}$  Supervised learning projects:
 
-	$\textbf{4.1.}$  Phase transition in Ising model.
+   $\textbf{4.1.}$  Phase transition in Ising model.
 	
-	$\textbf{4.2.}$  Convolutional neural network with tensorflow.
+   $\textbf{4.2.}$  Convolutional neural network with tensorflow.
 	
-	$\textbf{4.3.}$  Decision tree for earthquake prediction.
+   $\textbf{4.3.}$  Decision tree for earthquake prediction.
