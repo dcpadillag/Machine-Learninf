@@ -9,9 +9,9 @@ $\textbf{1.}$  References about machine learning technics applied in condensed m
 
 $\textbf{2.}$ Introductory example for supervised learning.
 
-$\textbf{3.}$  Slides about machine learning topics
+$\textbf{3.}$  Slides about machine learning topics.
 
-$\textbf{4.}$  Supervised learning projects
+$\textbf{4.}$  Supervised learning projects:
 
 	$\textbf{4.1.}$  Phase transition in Ising model.
 	
